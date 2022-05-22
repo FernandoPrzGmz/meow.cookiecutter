@@ -1,0 +1,53 @@
+===========================================
+Notas de la versión 0.1.0 de |project_name|
+===========================================
+
+Bienvenido / bienvenida a la versión 0.1.0 de |project_name|
+
+Esse nisi ad do amet veniam.Labore et id enim commodo est deserunt
+pariatur amet et ullamco laboris duis. Excepteur dolor adipisicing
+sit ut est minim velit dolor ullamco velit ut commodo eu anim.
+Culpa in elit ea ea duis.
+
+Dolore laborum ex amet non. Nisi fugiat do consectetur minim qui
+labore qui. Culpa commodo amet sint enim laboris dolor esse aliqua
+cillum qui dolor quis non do. Anim est sunt sunt ex aliqua cupidatat.
+Quis nisi officia labore veniam proident consequat sunt.
+
+
+
+
+Correcciones y mejoras en la versión 0.1.0 de |project_name|
+============================================================
+
+Elit Lorem exercitation nisi aute laborum est dolor sunt. Do est culpa
+id et ipsum labore. Dolor veniam esse duis exercitation reprehenderit
+esse sint non esse proident. Excepteur excepteur in est esse in Lorem
+ullamco sit adipisicing ullamco proident laborum.
+
+* Eu incididunt non excepteur cupidatat dolore ut sunt consequat et
+  in consectetur. Commodo commodo amet aliqua voluptate anim qui. Ex
+  ullamco qui commodo elit.
+
+* Pariatur nostrud id sit ullamco irure incididunt sit. Ut exercitation
+  ut deserunt deserunt non dolore sunt labore Lorem exercitation
+  adipisicing. Sit fugiat aliqua reprehenderit consectetur commodo
+  eiusmod sint.
+
+* Exercitation adipisicing qui ut commodo nisi voluptate cillum
+  voluptate ad voluptate laboris laborum ex.
+
+* Aliquip mollit fugiat anim consequat mollit labore nulla aliqua et
+  aute anim cupidatat elit. Velit nostrud minim est nisi ullamco commodo.
+  Consequat exercitation occaecat cupidatat ex laborum labore labore
+  laborum aliqua quis mollit incididunt.
+
+* Elit anim nostrud commodo est do. Ullamco quis consectetur sint
+  incididunt minim. Labore dolore anim elit minim non officia. Fugiat
+  deserunt consequat Lorem ipsum. Adipisicing do ullamco ex non
+  exercitation ad enim anim.
+
+* Ut est amet ex commodo ad nisi. Aliqua laborum cupidatat enim ut
+  exercitation occaecat labore veniam aute tempor. Sit quis aliquip et
+  sit sit incididunt labore. Commodo amet labore culpa aliquip nisi mollit
+  proident eiusmod et ullamco.

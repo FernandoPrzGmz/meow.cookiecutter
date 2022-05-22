@@ -1,0 +1,4 @@
+"""
+Funciones de utilidad general.
+
+"""
