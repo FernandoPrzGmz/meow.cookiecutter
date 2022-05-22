@@ -1,0 +1,15 @@
+{
+    "project_name": "Foo Bar",
+    "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '.')|replace('-', '_')|trim() }}",
+    "description": "Lorem Ipsum",
+    "author_name": "Fernando Perez Gomez",
+    "domain_name": "http://example.com",
+    "email": "{{ cookiecutter.author_name.lower()|replace(' ', '-') }}@example.com",
+    "version": "0.1.0",
+    "timezone": "UTC",
+
+    "docs_repo_name": "{{ cookiecutter.project_slug }}",
+    "docs_site_url": "{{ cookiecutter.domain_name }}",
+    "docs_repo_type": "github",
+    "docs_repo_url": "https://github.com/fernandoprzgmz/meow.cookiecutter/"
+}

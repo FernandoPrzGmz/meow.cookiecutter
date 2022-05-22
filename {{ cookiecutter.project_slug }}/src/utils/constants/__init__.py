@@ -1,0 +1,4 @@
+"""
+Constantes de utilidad general.
+
+"""
